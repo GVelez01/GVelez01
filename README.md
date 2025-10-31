@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GVelez01 - Gio
-- 👀 I’m interested in Product Management, Project Management, SCRUM and Software development I just never get to it but I do.
-- 🌱 I’m currently learning Product Management
-- 💞️ I’m looking to collaborate on anything that is IT related, and I'm a lawyer if that makes a difference
+- 👀 I’m a Product Manager, Project Management, SCRUM.
+- 🌱 I’m currently learning Meta Ads, HTML/CSS/JS, and SEO
 - 📫 How to reach me - @GVelez01 on Github or Instagram. And if you know a Senior RoR dev who is looking for a gig please let me know.
 
 <!---
